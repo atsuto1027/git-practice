@@ -1,2 +1,2 @@
 print("こんにちは")
-akaks
+fjfj
